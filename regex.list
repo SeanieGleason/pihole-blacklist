@@ -29,3 +29,7 @@
 ^mads\.
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[_.-]
+
+(\.|^)googleadservices\.net$
+(\.|^)googleads\.g\.doubleclick\.net$
+(\.|^)googleadservices\.com$
