@@ -35,3 +35,5 @@
 (\.|^)googleadservices\.com$
 (\.|^)m2\.tuyaus\.com$
 (\.|^)jm\-msg\-global\.aliexpress\.com$
+
+.*fox.*\.[a-zA-Z]{2,}$
