@@ -37,3 +37,6 @@
 (\.|^)jm\-msg\-global\.aliexpress\.com$
 
 .*fox.*\.[a-zA-Z]{2,}$
+.*trump.*\.[a-zA-Z]{2,}$
+.*russia.*\.[a-zA-Z]{2,}$
+.*conservative.*\.[a-zA-Z]{2,}$
