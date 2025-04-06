@@ -40,3 +40,5 @@
 .*trump.*\.[a-zA-Z]{2,}$
 .*russia.*\.[a-zA-Z]{2,}$
 .*conservative.*\.[a-zA-Z]{2,}$
+.*parlor.*\.[a-zA-Z]{2,}$
+.*rumble.*\.[a-zA-Z]{2,}$
