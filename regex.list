@@ -36,6 +36,8 @@
 (\.|^)m2\.tuyaus\.com$
 (\.|^)jm\-msg\-global\.aliexpress\.com$
 
+(\.|^)receive?nintendo\.net$
+
 .*fox.*\.[a-zA-Z]{2,}$
 .*trump.*\.[a-zA-Z]{2,}$
 .*russia.*\.[a-zA-Z]{2,}$
