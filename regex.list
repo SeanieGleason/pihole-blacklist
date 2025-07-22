@@ -44,3 +44,4 @@ telemetry[_.-]
 .*conservative.*\.[a-zA-Z]{2,}$
 .*parlor.*\.[a-zA-Z]{2,}$
 .*rumble.*\.[a-zA-Z]{2,}$
+.*nisc.*\.[a-zA-Z]{2,}$
