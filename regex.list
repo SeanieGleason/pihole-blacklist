@@ -30,22 +30,21 @@
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[_.-]
 
-(\.|^)googleadservices\.net$
-(\.|^)googleads\.g\.doubleclick\.net$
-(\.|^)googleadservices\.com$
-(\.|^)m2\.tuyaus\.com$
-(\.|^)jm\-msg\-global\.aliexpress\.com$
+^(.+\.)?googleadservices\.(net|com)$
+^(.+\.)?googleads\.g\.doubleclick\.net$
+^(.+\.)?m2\.tuyaus\.com$
+^(.+\.)?jm-msg-global\.aliexpress\.com$
 
-.*receive?nintendo\.net$
-
-.*fox.*\.[a-zA-Z]{2,}$
-.*trump.*\.[a-zA-Z]{2,}$
-.*russia.*\.[a-zA-Z]{2,}$
-.*conservative.*\.[a-zA-Z]{2,}$
-.*parlor.*\.[a-zA-Z]{2,}$
-.*rumble.*\.[a-zA-Z]{2,}$
-.*nisc.*\.[a-zA-Z]{2,}$
+^.*receive\.nintendo\.net$
 ^.*-lp1\.ndas\.srv\.nintendo\.net$
 ^.*\.d4c\.srv\.nintendo\.net$
 ^.*\.dapps\.nintendo\.net$
 ^.*\.accounts\.nintendo\.com$
+
+^.*fox.*$
+^.*trump.*$
+^.*russia.*$
+^.*conservative.*$
+^.*parlor.*$
+^.*rumble.*$
+^.*nisc.*$
