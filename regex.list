@@ -45,3 +45,7 @@
 .*parlor.*\.[a-zA-Z]{2,}$
 .*rumble.*\.[a-zA-Z]{2,}$
 .*nisc.*\.[a-zA-Z]{2,}$
+^.*-lp1\.ndas\.srv\.nintendo\.net$
+^.*\.d4c\.srv\.nintendo\.net$
+^.*\.dapps\.nintendo\.net$
+^.*\.accounts\.nintendo\.com$
