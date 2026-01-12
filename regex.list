@@ -35,11 +35,11 @@
 ^(.+\.)?m2\.tuyaus\.com$
 ^(.+\.)?jm-msg-global\.aliexpress\.com$
 
-^.*receive\.nintendo\.net$
-^.*-lp1\.ndas\.srv\.nintendo\.net$
-^.*\.d4c\.srv\.nintendo\.net$
-^.*\.dapps\.nintendo\.net$
-^.*\.accounts\.nintendo\.com$
+(^|\.)lp1\.ndas\.srv\.nintendo\.net$
+(^|\.)d4c\.srv\.nintendo\.net$
+(^|\.)dapps\.nintendo\.net$
+(^|\.)accounts\.nintendo\.com$
+(^|\.)receive\.nintendo\.net$
 
 ^.*fox.*$
 ^.*trump.*$
