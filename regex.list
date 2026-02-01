@@ -35,11 +35,10 @@
 ^(.+\.)?m2\.tuyaus\.com$
 ^(.+\.)?jm-msg-global\.aliexpress\.com$
 
-(^|\.)lp1\.ndas\.srv\.nintendo\.net$
-(^|\.)d4c\.srv\.nintendo\.net$
-(^|\.)dapps\.nintendo\.net$
-(^|\.)accounts\.nintendo\.com$
-(^|\.)receive\.nintendo\.net$
+^a(auth|cert|api|admin)([.-]hac)?[.-]lp1\.ndas\.(srv|mng)\.nintendo\.net
+^d(auth|cert|api|admin)-lp1\.ndas\.(srv|mng)\.nintendo\.net
+(^|\.)d4c\.nintendo\.net$
+receive\.p01\.lp1\.(dg|er)\.srv\.nintendo\.net
 
 ^.*fox.*$
 ^.*trump.*$
